@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250"/>
+  <img src="https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif" width="250"/>
 </p>
 
 <h1 align="center">HI! My name's Roman, I`m a beginner programmer 👋</h1>
@@ -24,7 +24,3 @@
 - **Tools:** Git, GitHub, VSCode, Telegram Bot API
 
 ---
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif" width="200"/>
-</p>
