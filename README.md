@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250"/>
+</p>
 
-<!--
-**zxcresp/zxcresp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">HI! My name's Roman, I`m a beginner programmer 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Python-developer | Telegram-bots | Web-developer
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 About me
+- I want to get into cybersecurity
+- I'm learning Python, C++, Linux, databases, and web technologies.
+- I strive to write clean and understandable code.
+- I like to write code when I have time.
+
+---
+
+### 🛠 Technologies
+- **Languages:** Python, HTML, CSS, JS
+- **Databases:** SQLite, MySQL
+- **Tools:** Git, GitHub, VSCode, Telegram Bot API
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif" width="200"/>
+</p>
