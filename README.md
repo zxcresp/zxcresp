@@ -26,7 +26,5 @@
 ---
 
 ![](https://img.shields.io/badge/OS-Dualboot%20Kali%20Linux%20%7C%20Windows-informational?style=flat&logo=linux&logoColor=white&color=red)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=green)
+![](https://img.shields.io/badge/Editor%20%26%20Code-VS%20Code%20%7C%20PyCharm%20%7C%20Python%20%7C%20C++-informational?style=flat&logo=code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
