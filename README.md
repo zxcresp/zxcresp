@@ -26,7 +26,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-VS%20Code%20%7C%20PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC"/>
+  <img src="https://img.shields.io/badge/OS-Dualboot%20Kali%20Linux%20%7C%20Windows-informational?style=flat&logo=linux&logoColor=white&color=red"/>
   <br/>
   <img src="https://img.shields.io/badge/Code-Python%20%7C%20C++-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code%20%7C%20PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC"/>
 </p>
