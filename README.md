@@ -19,7 +19,7 @@
 ---
 
 ### 🛠 Technologies
-- **Languages:** Python, HTML, CSS, C++
+- **Languages:** Python, HTML, CSS, C++, JS
 - **Databases:** SQLite, MySQL
 - **Tools:** Git, GitHub, VSCode, Telegram Bot API
 
