@@ -21,7 +21,7 @@
 ### 🛠 Technologies
 - **Languages:** Python, HTML, CSS, C++, JS
 - **Databases:** SQLite, MySQL
-- **Tools:** Git, GitHub, VSCode, Telegram Bot API
+- **Tools:** Git, GitHub, Pycharm, VSCode, Telegram Bot API
 
 ---
 
