@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif" width="300"/>
 </p>
 
-<h1 align="center">HI! My name's Roman, I'm a programmer 👋</h1>
+<h1 align="center">HI, I`m programmer</h1>
 
 <p align="center">
   💻 Python-developer | Telegram-bots | Web-developer
