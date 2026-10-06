@@ -2,31 +2,41 @@
   <img src="https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif" width="300"/>
 </p>
 
-<h1 align="center">HI, I`m programmer</h1>
+<h1 align="center">I'm ReSP - Junior Software Engineer</h1>
 
 <p align="center">
-  💻 Python-developer | Telegram-bots | Web-developer
+  🐍 Python | 🤖 Telegram Bots | 🛠️ Software Development
+</p>
+
+<p align="center">
+  <a href="https://github.com/zxcresp">
+    <img src="https://img.shields.io/badge/GitHub-zxcresp-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
 ### 💡 About me
-- I want to get into cybersecurity
-- I'm learning Python, C++, Linux, databases, and web technologies.
-- I strive to write clean and understandable code.
-- I like to write code when I have time.
+
+* I want to get into cybersecurity
+* I'm learning Python, C++, Linux, databases, and web technologies.
+* I strive to write clean and understandable code.
+* I like to write code when I have time.
 
 ---
 
-### 🛠 Technologies
-- **Languages:** Python, HTML, CSS, C++, JS
-- **Databases:** SQLite, MySQL
-- **Tools:** Git, GitHub, Pycharm, VSCode, Telegram Bot API
+### 🛠 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,git,github,linux,pycharm,vscode" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Dualboot%20Kali%20Linux%20%7C%20Windows-informational?style=flat&logo=linux&logoColor=white&color=red"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code%20%7C%20PyCharm-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zxcresp&show_icons=true&hide_border=true&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxcresp&hide_border=true&theme=transparent"/>
 </p>
