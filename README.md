@@ -17,18 +17,30 @@
 ---
 
 ### 💡 About me
-
-* I want to get into cybersecurity
-* I'm learning Python, C++, Linux, databases, and web technologies.
-* I strive to write clean and understandable code.
-* I like to write code when I have time.
+* I'm learning Python, C++, Linux, databases, and web technologies
+* I strive to write clean and understandable code
+* I like to write code when I have time
+* I`m also interested in cybersecurity 
 
 ---
 
 ### 🛠 Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,git,github,kali,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,git,github" />
+</p>
+
+---
+
+### 🖥️ System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,windows" />
+</p>
+
+---
+
+### ⚙️ IDE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode" />
 </p>
 
 ---
