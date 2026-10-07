@@ -28,7 +28,7 @@
 ### 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,git,github,linux,pycharm,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sqlite,git,github,kali,pycharm,vscode" />
 </p>
 
 ---
